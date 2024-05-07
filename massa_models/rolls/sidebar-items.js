@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["RollCompensation","RollCounts","RollUpdate","RollUpdateDeserializer","RollUpdateSerializer","RollUpdates"]};

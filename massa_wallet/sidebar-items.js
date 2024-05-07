@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["WALLET_VERSION"],"enum":["WalletError"],"mod":["error"],"struct":["Wallet","WalletFileFormat"]};

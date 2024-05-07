@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TimeError"],"mod":["error","mapping_grpc"],"struct":["MassaTime","MassaTimeDeserializer","MassaTimeSerializer"]};

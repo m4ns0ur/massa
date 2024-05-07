@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["serve","wrong_api"],"mod":["api","api_trait","private","public"],"struct":["API","ApiV2","Private","Public","StopHandle"],"trait":["ApiServer","MassaRpcServer","RpcServer"]};
